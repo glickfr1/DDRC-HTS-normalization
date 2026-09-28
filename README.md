@@ -1,5 +1,14 @@
 # DDRC High-Throughput Screening Normalization Tool
 
+Developed by Chloe Larson, Francesca Curreli, Loreto Carvallo-Torres, and J. Fraser Glickman for drug-discovery and high-throughput screening workflows at the Fisher Drug Discovery Resource Center (DDRC), The Rockefeller University.
+
+Copyright © 2026 The Rockefeller University.
+
+## License
+
+This software is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
+
+For licensing inquiries or requests for permissions beyond the terms of this license, please contact The Fisher Drug Discovery Resource Center by opening an Issue in this GitHub repository.
 ## What does this tool do?
 
 This tool takes raw high-throughput screening (HTS) measurements and a separate compound database, links the two files by **plate + well**, and produces normalized screening results.
@@ -307,3 +316,4 @@ you can ask an AI coding assistant such as ChatGPT to modify the script. A usefu
 ## DDRC
 
 Developed for drug-discovery and high-throughput screening workflows at the Fisher Drug Discovery Resource Center (DDRC), The Rockefeller University.
+
